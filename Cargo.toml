@@ -1,0 +1,13 @@
+[package]
+name = "crc-thirty-too"
+version = "0.0.0"
+authors = ["Andrew Halle <me@andrewhalle.dev>", "Randy Barlow <randy@electronsweatshop.com>"]
+license = "GPL-3.0"
+readme = "README.md"
+repository = "https://github.com/beeziptoo/crc-thirty-too"
+documentation = "https://docs.rs/crc-thirty-too"
+description = "We can do CRC too."
+keywords = ["crc32"]
+categories = ["algorithms"]
+edition = "2024"
+rust-version = "1.89"
